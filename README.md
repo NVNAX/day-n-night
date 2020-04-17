@@ -1,4 +1,7 @@
-# Full-Login-Dashboard-Node.js-Express.js-Passport.js-MongoDB
+# Day & Night
+
+A responsive dashboard created using Node.js-Express.js-Passport.js-MongoDB
+
 Full Login/Reg Dashboard With Authentication
 
 - Dashboard Base https://demos.creative-tim.com/black-dashboard/
